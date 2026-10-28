@@ -1,0 +1,174 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+header{
+display: flex;
+align-items: center;
+justify-content: space-between;
+width: 40px;
+height: 15px;
+margin-top: 24px;
+margin-left: 173px;
+
+
+}
+.header-con{
+ display: flex;
+  align-items: center;
+  justify-content: center;
+gap: 30px;
+width: 1280px;
+height: 1385px;
+width: 69px;
+height: 15px;
+margin-top: 24px;
+margin-left: 1093px;
+}
+main{
+ p{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: -34px;
+ }
+ 
+  margin-top: 80px;
+}
+
+.img-con{
+display: flex;
+align-items: center;
+justify-content: center;
+margin: auto;
+
+}
+
+.img-con-2{
+  display: flex;
+align-items: center;
+justify-content: center;
+margin-left: -235px;
+margin: auto;
+margin-top: -21px;
+}
+
+.main-con{
+  width: 497px;
+height: 72px;
+margin-top: 30px;
+margin-left: 650px;
+
+
+}
+.main-con-2{
+display: flex;
+align-items: center;
+justify-content: center;
+width: 300px;
+height: 80px;
+margin-top: 20px;
+margin-left: 600px;
+
+
+}
+.main-con-3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.main-con-4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+  gap: 30px;
+}
+
+.sec-con{
+display: flex;
+align-items: center;
+justify-content: center;
+width: 602px;
+height: 59px;
+top: 746px;
+margin-left: 450px;
+
+
+
+}
+.sec-con-2{
+  display: flex;
+align-items: center;
+justify-content: center;
+width: 700px;
+height: 60px;
+margin-left: 400px;
+
+
+}
+.sec-con-3{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aside-con{
+  width: 32px;
+height: 32px;
+margin-top: 282px;
+margin-left: 105px;
+}
+
+.aside-con-1{
+  width: 200px;
+height: 80px;
+margin-top: 20px;
+margin-left: 105px;
+
+
+}
+.aside-con-2{
+  width: 362px;
+height: 90px;
+margin-top: 20px;
+margin-left: 105px;
+gap: 10px;
+
+}
+.aside-img{
+  width: 1033px;
+height: 650px;
+margin-top: -400px;
+margin-left: 526px;
+border-radius: 32px;
+angle: 0 deg;
+opacity: 1;
+border-width: 1px;
+
+}
+.aside-img-1{
+  width: 967px;
+height: 650px;
+margin-top: 50px;
+margin-left: -213px;
+border-radius: 32px;
+angle: 0 deg;
+opacity: 1;
+border-width: 1px;
+
+}
+
+.image-4{
+  width: 32px;
+height: 32px;
+margin-top: -600px;
+margin-left: 650px;
+angle: 0 deg;
+opacity: 1;
+
+}
+
